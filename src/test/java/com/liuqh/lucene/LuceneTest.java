@@ -67,7 +67,7 @@ public class LuceneTest {
 		hl.searchByRange("content", "中国", "法", true, true);
 	}
 
-	//d123
+	//d12345
 
 
 }
