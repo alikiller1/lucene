@@ -66,4 +66,7 @@ public class LuceneTest {
 	public void testSearchByRange(){
 		hl.searchByRange("content", "中国", "法", true, true);
 	}
+
+	//dd12
+
 }
